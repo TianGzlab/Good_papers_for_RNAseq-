@@ -10,3 +10,6 @@
 [**Evaluation of deep learning-based feature selection for single-cell RNA sequencing data analysis**](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03100-x)
 
 ## Clustering
+
+## Best practices 
+[**Current best practices in single‐cell RNA‐seq analysis: a tutorial**](https://www.embopress.org/doi/full/10.15252/msb.20188746)
