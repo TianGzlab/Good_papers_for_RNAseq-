@@ -18,3 +18,5 @@
 [**Best practices for single-cell analysis across modalities**](https://www.nature.com/articles/s41576-023-00586-w#Fig6)
 
 [**Current best practices in single‐cell RNA‐seq analysis: a tutorial**](https://www.embopress.org/doi/full/10.15252/msb.20188746)
+
+[**Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods**](https://www.nature.com/articles/s41596-021-00534-0#Sec3)
