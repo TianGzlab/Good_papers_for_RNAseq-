@@ -13,7 +13,7 @@
 [**Significance analysis for clustering with single-cell RNA-sequencing data**](https://www.nature.com/articles/s41592-023-01933-9#Sec9)
 
 ## Atlas-level analysis
-[**Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours**](https://www.nature.com/articles/s41592-023-01933-9#Sec9)
+[**Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours**](https://www.nature.com/articles/s41586-023-06130-4)
 
 ## Great review
 [**The future of rapid and automated single-cell data analysis using reference mapping**](https://www.nature.com/articles/s41586-023-06130-4)
