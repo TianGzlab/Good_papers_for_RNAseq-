@@ -1,6 +1,6 @@
 # Good_papers_for_RNAseq
 
-## Feature/marker Selection
+## Feature/marker Selection or identification of gene module
 [**Automated cell annotation in scRNA-seq data using unique marker gene sets**](https://www.biorxiv.org/content/10.1101/2024.05.24.595477v1?open_in_browser=true)
 
 [**Feature selection revisited in the single-cell era**](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02544-3)
@@ -8,6 +8,8 @@
 [**A comparison of marker gene selection methods for single-cell RNA sequencing data**](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03183-0#Tab1)
 
 [**Evaluation of deep learning-based feature selection for single-cell RNA sequencing data analysis**](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03100-x)
+
+[**Supervised discovery of interpretable gene programs from single-cell data**](https://www.nature.com/articles/s41587-023-01940-3)
 
 ## Clustering
 [**Significance analysis for clustering with single-cell RNA-sequencing data**](https://www.nature.com/articles/s41592-023-01933-9#Sec9)
