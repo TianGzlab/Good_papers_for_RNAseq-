@@ -14,6 +14,9 @@
 ## Clustering
 [**Significance analysis for clustering with single-cell RNA-sequencing data**](https://www.nature.com/articles/s41592-023-01933-9#Sec9)
 
+## Data integration
+[**Computational principles and challenges in single-cell data integration**](https://www.nature.com/articles/s41587-021-00895-7#Fig1)
+
 ## Atlas-level analysis
 [**Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours**](https://www.nature.com/articles/s41586-023-06130-4)
 
